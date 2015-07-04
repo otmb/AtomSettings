@@ -1,0 +1,12 @@
+"*":
+  "exception-reporting":
+    userId: "58b31f39-18e5-58fd-718f-fded09135e06"
+  welcome:
+    showOnStartup: false
+  core: {}
+  editor:
+    invisibles: {}
+  "autocomplete-plus": {}
+  "ide-haskell":
+    ghcModPath: "/Users/manabu/Library/Haskell/bin/ghc-mod"
+    stylishHaskellPath: "/Users/manabu/Library/Haskell/bin/stylish-haskell"
